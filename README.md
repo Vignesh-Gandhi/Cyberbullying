@@ -1,2 +1,2 @@
 # Cyberbullying
- Cyberbullying detection using ML
+ Cyberbullying detection using Natural Language Toolkit
